@@ -8,4 +8,4 @@ setuptools>=68.0.0
 argon2-cffi
 streamlit_lottie
 streamlit_option_menu
-streamlit_cookies_manager
+streamlit-cookies-manager-hotpatched==0.2.1
