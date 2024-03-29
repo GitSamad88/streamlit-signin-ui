@@ -19,7 +19,7 @@ python3.10 -m venv venv
 source venv/bin/activate
 python3.10 -m pip install -r requirements.txt
 
-# Streamlit Login/ Sign Up Library   [![Downloads](https://static.pepy.tech/personalized-badge/streamlit-login-auth-ui?period=month&units=international_system&left_color=grey&right_color=blue&left_text=downloads)](https://pepy.tech/project/streamlit-signin-auth-ui)
+# Streamlit Login/ Sign Up Library   [![Downloads](https://static.pepy.tech/personalized-badge/streamlit-signin-auth-ui?period=month&units=international_system&left_color=grey&right_color=blue&left_text=downloads)](https://pepy.tech/project/streamlit-signin-auth-ui)
 
 The streamlit_signin_auth_ui library is meant for streamlit application developers.
 It lets you connect your streamlit application to a pre-built and secure Login/ Sign-Up page and store user's data in Google Sheets.
